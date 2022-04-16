@@ -1,6 +1,3 @@
-<img src="" />
-
-
 ### Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30"/> , I'm Berru.
  
 👩🏻‍💻 I’m currently working on **Cyber-Security.**
