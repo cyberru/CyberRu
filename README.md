@@ -11,4 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white
+🧠 Programming Languages
+
+[![Cdili](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]
