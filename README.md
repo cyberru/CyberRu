@@ -1,10 +1,10 @@
-### Hi there ![Hi](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif) I'm Berru.
+### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30"/> , I'm Berru.
+ 
+👩🏻‍💻 I’m currently working on **Cyber-Security.**
 
-• 👩🏻‍💻 I’m currently working on Cyber-Security.
+🌱 I’m currently learning how to develop games with **Unity.**
 
-• 🌱 I’m currently learning how to develop games with Unity.
-
-• 🌍 Hack the planet!
+🌍 Hack the planet!
 
 ***
 
@@ -34,9 +34,9 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=berrua.visitor-badge&left_color=black&right_color=pink&left_text=Hello%20Visitors)
 ![Followers](https://img.shields.io/github/followers/berrua.svg?style=social&label=Followers&maxAge=2592000)
 
-
+***
 
 📊 GitHub Stats
 
-![MostUsedLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=berrua&theme=buefy)
+![MostUsedLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=berrua&theme=aura)
 
