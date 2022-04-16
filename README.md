@@ -1,15 +1,12 @@
-### Hi there 👋 I'm Berru.
+### Hi there ![Hi](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif) I'm Berru.
 
+• 👩🏻‍💻 I’m currently working on Cyber-Security.
 
-<img src="gorsel-link" width="auto">
+• 🌱 I’m currently learning how to develop games with Unity.
 
-- 🔭 I’m currently working on Cyber-Security.
-- 🌱 I’m currently learning how to develop games with Unity.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+• 🌍 Hack the planet!
+
+***
 
 🧠 Programming Languages
 
@@ -29,12 +26,17 @@
 🎮 Game & Design
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-
-
-![MostUsedLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=berrua&theme=buefy)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
 💜 Visitors & Followers
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=berrua.visitor-badge&left_color=black&right_color=pink&left_text=Hello%20Visitors)
 ![Followers](https://img.shields.io/github/followers/berrua.svg?style=social&label=Followers&maxAge=2592000)
+
+
+
+📊 GitHub Stats
+
+![MostUsedLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=berrua&theme=buefy)
+
