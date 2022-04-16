@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 🧠 Programming Languages
 
 ![Cdili](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Csharpdili](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
