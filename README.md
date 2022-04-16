@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 
 🧠 Programming Languages
 
-[!(https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]
+![Cdili](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
