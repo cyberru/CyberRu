@@ -1,5 +1,5 @@
-### Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30"/> , I'm Berru.
- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?background=FFFFFF00&lines=Hi+visitors+👋🏻,+I'm+Berru.;Welcome+to+my+GitHub+profile...)](https://git.io/typing-svg)
+
 👩🏻‍💻 I’m currently working on **Cyber-Security.**
 
 🌱 I’m currently learning how to develop games with **Unity.**
