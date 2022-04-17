@@ -4,6 +4,8 @@
 
 🌱 I’m currently learning how to develop games with **Unity.**
 
+💬 Ask me about **anything** you want.
+
 🌍 Hack the planet!
 
 ***
