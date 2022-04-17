@@ -33,7 +33,7 @@
 
 💜 **Visitors & Followers**
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=berrua.visitor-badge&left_color=black&right_color=green&left_text=Hello%20Visitors)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=berrua.visitor-badge&left_color=black&right_color=green&left_text=Visitors)
 ![Followers](https://img.shields.io/github/followers/berrua.svg?style=social&label=Followers&maxAge=2592000)
 
 ***
