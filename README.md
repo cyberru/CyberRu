@@ -8,7 +8,7 @@
 
 🌍 Hack the planet!
 
-***
+#
 
 🧠 **Programming Languages**
 
@@ -36,7 +36,7 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=berrua.visitor-badge&left_color=black&right_color=blueviolet&left_text=Visitors)
 ![Followers](https://img.shields.io/github/followers/berrua.svg?style=social)
 
-***
+#
 
 📊 **GitHub Stats**
 
