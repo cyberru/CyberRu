@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?background=FFFFFF00&lines=Hi+visitors+👋🏻,+I'm+Berru.;Welcome+to+my+GitHub+profile...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?background=FFFFFF00&lines=Hi+visitor+👋🏻,+I'm+Berru.;Welcome+to+my+GitHub+profile...)](https://git.io/typing-svg)
 
 👩🏻‍💻 I’m currently working on **Cyber-Security.**
 
