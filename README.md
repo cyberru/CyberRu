@@ -39,4 +39,4 @@
 
 📊 **GitHub Stats**
 
-![](https://raw.githubusercontent.com/berrua/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=berrua&theme=chartreuse-dark)
