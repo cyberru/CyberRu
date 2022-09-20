@@ -34,3 +34,7 @@
 💜 **Visitors**
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=berrua.visitor-badge&left_color=black&right_color=blueviolet&left_text=Visitors)
+
+#
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berrua&layout=compact)](https://github.com/berrua/github-readme-stats)
