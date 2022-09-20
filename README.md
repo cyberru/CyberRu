@@ -37,4 +37,8 @@
 
 #
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berrua)](https://github.com/berrua/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berrua&layout=compact)](https://github.com/berrua/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berrua&langs_count=8)](https://github.com/berrua/github-readme-stats)
