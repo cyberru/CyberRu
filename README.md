@@ -37,4 +37,3 @@
 
 #
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berrua&layout=compact)](https://github.com/berrua/github-readme-stats)
