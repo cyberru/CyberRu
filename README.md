@@ -1,6 +1,6 @@
 <p><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=500&color=21F746&vCenter=true&width=600&height=60&lines=Hi+visitor%2C+I'm+Berru.;Welcome+to+my+GitHub+profile!" alt="berrua" /></p>
 
-<img align="center" src="https://profile-counter.glitch.me/berrua/count.svg" alt="Visitors">
+<img align="center" src="https://profile-counter.glitch.me/berrua/count.svg" alt="Loading Visitors">
 
 #
 
