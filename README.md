@@ -12,7 +12,7 @@
 
 🗯️ Ask me about **anything** you want.
 
-🌍 **Hack** the planet!.
+🌍 **Hack** the planet!
 <br>
 
 #
