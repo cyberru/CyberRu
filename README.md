@@ -8,7 +8,7 @@
 
 👩🏻‍💻 I’m currently working on **Cyber-Security.**
 
-🌱 I’m currently learning how to develop games with **Unity.**
+🌱 I’m currently learning how to develop applications with **Flutter and Dart.**
 
 🗯️ Ask me about **anything** you want.
 
