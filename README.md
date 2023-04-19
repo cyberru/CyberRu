@@ -31,7 +31,7 @@
       <a href="https://github.com/berrua/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=berrua&hide_border=true&show_icons=true&count_private=true" alt="Berru's GitHub Stats" /> </a>
     </td>
     <td>
-      <a href="https://github.com/berrua/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=berrua&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
+      
     </td>
   </tr>
 </table>
