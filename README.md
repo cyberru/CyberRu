@@ -55,6 +55,6 @@
 <br>
 
 <div align="center">
-<img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berrua&hide_progress=true&theme=transparent" alt=berrua />
-<img align="right"  height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=berrua&theme=" alt="berrua" />
+<img align="left" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berrua&hide_progress=true&theme=transparent" alt=berrua />
+<img align="right"  height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=berrua&theme=" alt="berrua" />
 </div>
