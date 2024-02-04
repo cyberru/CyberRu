@@ -54,4 +54,7 @@
 #
 <br>
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berrua&hide_progress=true&theme=transparent" alt=berrua />
+<div align="center">
+<img align="left" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berrua&hide_progress=true&theme=transparent" alt=berrua />
+<img align="right"  height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=berrua&theme=" alt="berrua" />
+</div>
