@@ -1,11 +1,14 @@
 <p><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=500&color=21F746&vCenter=true&width=600&height=60&lines=Hi+visitor%2C+I'm+Berru.;Welcome+to+my+GitHub+profile!" alt="berrua" /></p>
 
 ![](https://komarev.com/ghpvc/?username=berrua&style=flat&color=21F746&label=Visitors) 
+ 
+# 
 
-#
+<img align="right" height="180em" src="https://github.com/berrua/berrua/assets/68827388/8e353fbb-fb32-4f1c-8dab-17ce3ff1d367" />
+
 <br>
 
-👩🏻‍💻 I’m currently working on **Cyber-Security.**
+👩🏻‍💻 I’m currently working on **Cyber-Security.** 
 
 🌱 I’m currently learning **Go Language.**
 
@@ -55,8 +58,9 @@
 <br>
 
 <div align="center">
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=berrua&show_icons=true&locale=en&theme=transparent" alt="berrua" />
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berrua&layout=compact&theme=transparent" alt=berrua />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=berrua&show_icons=true&locale=en&theme=transparent" alt="berrua" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berrua&layout=compact&theme=transparent" alt=berrua />
 </div>
+
 
 
