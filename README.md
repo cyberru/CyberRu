@@ -2,9 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=berrua&style=flat&color=21F746&label=Visitors) 
  
-
-
-<img align="right" height="180em" src="https://github.com/berrua/berrua/assets/68827388/8e353fbb-fb32-4f1c-8dab-17ce3ff1d367" />
+#
 
 <br>
  
@@ -16,9 +14,9 @@
 
 🌍 **Hack** the planet!
 
+#
 
 <br>
-
 
 <div align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/go-original.svg" alt="Go" width="40" height="40"/>
@@ -55,11 +53,15 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </div>
 
+
+#
 <br>
 
 <div align="center">
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=berrua&show_icons=true&locale=en&theme=transparent" alt="berrua" />
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berrua&layout=compact&theme=transparent" alt=berrua />
+<img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=berrua&show_icons=true&locale=en&theme=transparent" alt="berrua" />
+<img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berrua&layout=compact&theme=transparent" alt=berrua />
+<img align="left" height="145em" src="https://github.com/berrua/berrua/assets/68827388/8e353fbb-fb32-4f1c-8dab-17ce3ff1d367" />
+
 </div>
 
 
