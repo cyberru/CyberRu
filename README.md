@@ -53,8 +53,8 @@
 <br>
 
 <div align="center">
-<img align="left" height="140em" src="https://github-readme-stats.vercel.app/api?username=berrua&show_icons=true&locale=en&theme=transparent" alt="berrua" />
-<img align="left" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berrua&layout=compact&theme=transparent" alt=berrua />
-<img align="left" height="140em" src="https://github.com/berrua/berrua/assets/68827388/8e353fbb-fb32-4f1c-8dab-17ce3ff1d367" />
+<img align="left" height="140em" src="https://github-readme-stats.vercel.app/api?username=cyberru&show_icons=true&locale=en&theme=transparent" alt="berrua" />
+<img align="left" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberru&layout=compact&theme=transparent" alt=berrua />
+<img align="left" height="140em" src="https://github.com/cyberru/berrua/assets/68827388/8e353fbb-fb32-4f1c-8dab-17ce3ff1d367" />
 
 </div>
