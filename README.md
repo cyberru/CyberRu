@@ -1,18 +1,6 @@
 <p><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=500&color=21F746&vCenter=true&width=600&height=60&lines=Hi+visitor%2C+I'm+Berru.;Welcome+to+my+GitHub+profile!" alt="berrua" /></p>
 
 ![](https://komarev.com/ghpvc/?username=berrua&style=flat&color=21F746&label=Visitors) 
- 
-#
-
-<br>
- 
-👩🏻‍💻 I’m currently working on **Cyber-Security.** 
-
-🌱 I’m currently learning **Go Language.**
-
-🗯️ Ask me about **anything** you want.
-
-🌍 **Hack** the planet!
 
 #
 
